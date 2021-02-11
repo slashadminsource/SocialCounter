@@ -6,6 +6,10 @@ The code collects the number of followers and displays them on 8 character 7 seg
 
 Use the following guide to setup Visual Code and install PowerShell to the Raspberry PI: https://www.slashadmin.co.uk/how-to-develop-powershell-scripts-for-the-raspberry-pi/
 
+![alt text](https://github.com/slashadminsource/SocialCounter/blob/master/images/front.jpg?raw=true)
+
+![alt text](https://github.com/slashadminsource/SocialCounter/blob/master/images/back.jpg?raw=true)
+![alt text](https://github.com/slashadminsource/SocialCounter/blob/master/images/back2.jpg?raw=true)
 
 # PARTS
 
